@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,19 +23,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook com o Título: Musculação Para a Perda de Peso, realizado através do uso do ChapGPT e Leonardo.ai.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+Leonardo.ai
+PowerPoint
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi utilizado o ChatGPT para a pesquisa e criação de conteúdo, o Leonardo.ai para pesquisa e confecção da capa. Para diagramação foi utilizado o PowerPoint.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook de conteúdo interessante sobre o assunto Musculação Para a Perda de Peso.
+https://github.com/agcav11/Project-Ebooh-created-IAs/tree/main/output
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Desafio muito interessante onde foi possível usar os conceitos aprendidos nas aulas do Bootcamp.
 ```
 
 ### Exemplos e Insigths
